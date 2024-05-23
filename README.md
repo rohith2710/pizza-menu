@@ -68,5 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
 When you run npm start and open this url (http://localhost:3000/) you will see below screen
 <img width="1719" alt="pizza-menu" src="https://github.com/rohith2710/pizza-menu/assets/20140447/9e8602b9-e1fb-44e9-964d-05f5f1b85b29">
